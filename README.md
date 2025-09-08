@@ -16,7 +16,7 @@
 - Telegram Bot Token
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/telegram-to-twitter.git
+   git clone https://github.com/erpriyasri-tech/Node-telegram-to-twitter.git
    cd telegram-to-twitter
 
 2.  **Install Dependencies**
